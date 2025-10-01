@@ -4,7 +4,7 @@ Acesse meu portfólio em:
   https://gitfollio.vercel.app/Fernandolilo
 </a>
 
-<!-- GitFolio:start
+ GitFolio:start
 {
   "gitfolio": "on",
   "name": "Fernando da Silva",
@@ -99,5 +99,5 @@ Pelo que você descreveu, você já está construindo um perfil bem sólido e al
   }
 ]
 }
-GitFolio:end -->
+GitFolio:end 
   
