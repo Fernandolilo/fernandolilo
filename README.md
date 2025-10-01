@@ -3,7 +3,7 @@ Acesse meu portfólio em:
 <a href="https://gitfollio.vercel.app/Fernandolilo"> 🔗
   https://gitfollio.vercel.app/Fernandolilo
 </a>
-
+<!--
  GitFolio:start
 {
   "gitfolio": "on",
@@ -99,5 +99,5 @@ Pelo que você descreveu, você já está construindo um perfil bem sólido e al
   }
 ]
 }
-GitFolio:end 
+GitFolio:end -->
   
